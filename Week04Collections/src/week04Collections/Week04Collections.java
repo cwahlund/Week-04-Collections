@@ -59,7 +59,7 @@ public class Week04Collections {
 		System.out.println(SEPARATOR);
 		
 		// 3. How do you access the last element of any array?
-		// arrayName[arrayName.length]
+		// arrayName[arrayName.length-1]
 		
 		// 4. How do you access the first element of any array?
 		// arrayName[0]
